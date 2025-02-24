@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on your team.
 - 📫 How to reach me. naza200@ukr.net
 - 😄 Pronouns: naza
-- ⚡ Fun fact: I have design skiis, too.
-- 
+- ⚡ Fun fact: I have design skills, too.
+  
 
 <!---
 nazarii2000/nazarii2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
